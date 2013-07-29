@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Slammin' Salmon]]></title>
+  <link href="http://theslamminsalmon.com/atom.xml" rel="self"/>
+  <link href="http://theslamminsalmon.com/"/>
+  <updated>2013-07-29T01:47:50-04:00</updated>
+  <id>http://theslamminsalmon.com/</id>
+  <author>
+    <name><![CDATA[Gregory Salmon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A wild new blog appears]]></title>
+    <link href="http://theslamminsalmon.com/blog/2013/07/28/a-wild-new-blog-appears/"/>
+    <updated>2013-07-28T22:53:00-04:00</updated>
+    <id>http://theslamminsalmon.com/blog/2013/07/28/a-wild-new-blog-appears</id>
+    <content type="html"><![CDATA[<p>And with a magical command I&#8217;ve created a new blog! Since I’ve always had an itch to write, but never have had the discipline to sit down and use pen and paper, this blog will suffice. It is both a one stop shop for my musings on film, video games, and programming and a workshop for my writing skills which need improvement, badly. Now go forth and read a post!</p>
+]]></content>
+  </entry>
+  
+</feed>
