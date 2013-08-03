@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Slammin' Salmon]]></title>
-  <link href="http://theslamminsalmon.com/feed" rel="self"/>
+  <title><![CDATA[Category: cardhunter | The Slammin' Salmon]]></title>
+  <link href="http://theslamminsalmon.com/blog/categories/cardhunter/atom.xml" rel="self"/>
   <link href="http://theslamminsalmon.com/"/>
   <updated>2013-08-03T12:23:34-04:00</updated>
   <id>http://theslamminsalmon.com/</id>
@@ -28,18 +28,9 @@
 
 <p>The game itself is challenging, sometimes frustrating, because like all TCGs, elements of randomness from the simulated dice rolls and card draws are a huge factor into how you choose to strategize and you can quickly find yourself resigning a battle just after it begins to dawn on you how strongly luck is not on your side.</p>
 
-<p>This is one of the more friendlier F2P games I&#8217;ve played recently. There are things the game does to remind you that you could be having more fun if you ponied up some real coin, but none of it is annoying. And while the game would be a tad easier, there&#8217;s no guarantee. So not paying doesn&#8217;t feel like playing with a handicap.</p>
+<p>This is one of the more friendlier F2P games I've played recently. There are things the game does to remind you that you could be having more fun if you ponied up some real coin, but none of it is annoying. And while the game would be a tad easier, there's no guarantee. So not paying doesn't feel like playing with a handicap.</p>
 
 <p>Overall, this game is pretty awesome. A-</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A wild new blog appears]]></title>
-    <link href="http://theslamminsalmon.com/blog/2013/07/28/a-wild-new-blog-appears/"/>
-    <updated>2013-07-28T22:53:00-04:00</updated>
-    <id>http://theslamminsalmon.com/blog/2013/07/28/a-wild-new-blog-appears</id>
-    <content type="html"><![CDATA[<p>And with a magical command I&#8217;ve created a new blog! Since I’ve always had an itch to write, but never have had the discipline to sit down and use pen and paper, this blog will suffice. It is both a one stop shop for my musings on film, video games, and programming and a workshop for my writing skills which need improvement, badly. Now go forth and read a post!</p>
 ]]></content>
   </entry>
   
